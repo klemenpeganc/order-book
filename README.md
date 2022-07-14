@@ -20,3 +20,12 @@ big.
 - use alternative to pairing function, as that results in need of reserving a bigger chunk of memory that we need.
 - introduce threading for filewriter, filereader and each orderbook
 - support multiple orderbooks, as currently it only supports one symbol.
+
+### Build instructions
+
+Requirements:
+- CMake
+
+To Run:
+`./build_all.sh`
+`./run.sh`
