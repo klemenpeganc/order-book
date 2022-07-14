@@ -27,5 +27,4 @@ Requirements:
 - CMake
 
 To Run:
-`./build_all.sh`
-`./run.sh`
+`./build_all.sh && ./run.sh`
